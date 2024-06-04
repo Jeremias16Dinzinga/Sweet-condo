@@ -1,6 +1,6 @@
 # Sweet-condo
 
-![sweet-condo-logo](https://github.com/Jeremias16Dinzinga/Sweet-condo/front-end/assets/117875623/4aaeb1c8-bcd4-45bd-9c26-e591140e4a0d)
+![sweet-condo-logo](https://github.com/Jeremias16Dinzinga/Sweet-condo/assets/117875623/4aaeb1c8-bcd4-45bd-9c26-e591140e4a0d)
 
 ## About Sweet condo
 
